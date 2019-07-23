@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun rollDice(){
-        val randomInt = Random.nextInt(6) + 1
+        val randomInt = Random.nextInt(69)
 
         val drawableResource = when (randomInt) {
 
